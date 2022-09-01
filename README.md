@@ -2,7 +2,7 @@
 python script to check is an arbitrary number is a prime number
 
 Usage:
-to use the script call it in the command line with the prime number(s) specified as arguements and separated by space if more than one
+to use the script call it in the command line with the number(s) to be checked specified as arguements and separated by space if more than one
 
 Example
 
